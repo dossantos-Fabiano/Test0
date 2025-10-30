@@ -3,7 +3,7 @@
 Hello ZAWARUDO!
 Hello darkness my old friend...
 
-# What I've learned/Terminology
+# Terminology 
 * Clone ⇒ copy the content of remote repository to local repository.
 * Staging ⇒ add a file to local repository pending changes.
 Only staged files can be saved on commits.
